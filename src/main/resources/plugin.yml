@@ -1,0 +1,6 @@
+name: GMGUI
+version: 1.0
+main: me.ipig.GMGUI.GMGUI
+commands:
+  gmgui:
+    description: Switch gamemode
